@@ -1,0 +1,16 @@
+{
+  "name": "doozer",
+  "version": "0.0.1",
+  "description": "Node.js Doozer Client",
+  "homepage": "http://github.com/dannycoates/doozerjs",
+  "author": "Danny Coates <dannycoates@gmail.com>",
+  "keywords": ["doozer"],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/dannycoates/doozerjs.git"
+  },
+  "engines": { "node": ">=0.6" },
+  "dependencies": {
+    "pbuf": "~0.4.0"
+  }
+}

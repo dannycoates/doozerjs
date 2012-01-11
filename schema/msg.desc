@@ -1,0 +1,49 @@
+
+Ó
+	msg.protodoozer"ò
+Request
+tag ("
+verb (2.doozer.Request.Verb
+path (	
+value (
+	other_tag (
+offset (
+rev	 ("i
+Verb
+GET
+SET
+DEL
+REV
+WAIT
+NOP
+WALK	
+
+GETDIR
+STAT
+
+ACCESSc"È
+Response
+tag (
+flags (
+rev (
+path (	
+value (
+len (&
+err_coded (2.doozer.Response.Err
+
+err_detaile (	"¬
+Err	
+OTHER
+
+TAG_IN_USE
+UNKNOWN_VERB
+READONLY
+TOO_LATE
+REV_MISMATCH
+BAD_PATH
+MISSING_ARG	
+RANGE
+
+NOTDIR	
+ISDIR	
+NOENT
