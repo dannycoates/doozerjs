@@ -7,7 +7,9 @@ var r = {
 	tag: 1,
 	flags: 2,
 	rev: 3,
-	path: '/foo/bar'
+	path: '/foo/bar',
+	errCode: 4,
+	errDetail: "blah"
 }
 
 var b = Response.serialize(r)
