@@ -1,6 +1,6 @@
 {
   "name": "doozer",
-  "version": "0.0.1-alpha",
+  "version": "0.1.0",
   "description": "Node.js Doozer Client",
   "homepage": "http://github.com/dannycoates/doozerjs",
   "author": "Danny Coates <dannycoates@gmail.com>",
