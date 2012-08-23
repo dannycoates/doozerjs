@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/dannycoates/doozerjs.png)](http://travis-ci.org/dannycoates/doozerjs)
 # Doozer.js
 
 A node.js client driver for [Doozer](https://github.com/ha/doozerd)
